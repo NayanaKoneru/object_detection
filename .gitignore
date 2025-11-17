@@ -1,0 +1,5 @@
+obj_det
+checkpoints
+__pycache__
+*.png
+*.jpeg
